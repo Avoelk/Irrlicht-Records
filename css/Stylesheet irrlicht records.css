@@ -101,6 +101,7 @@ p {
 /* ANIMATION BACKGROUND PICTURE*/
 
 .picture {
+	
 	color: rgba(252, 207, 145, 0.67);
 	-webkit-animation: bgColor 60s ease-in-out infinite;
 	/* Chrome, Safari */
@@ -110,6 +111,7 @@ p {
 	/* Opera */
 	animation: bgColor 60s ease-in-out infinite;
 	min-height: 100vh;
+	
 }
 
 @-webkit-keyframes bgColor {
